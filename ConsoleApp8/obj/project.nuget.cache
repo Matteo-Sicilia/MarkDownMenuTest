@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rez7WG6iAqWgqyYrEzvYgSdO1VwcCfkxT22Eo1EP/EZqZ2Sm7UbL53F18r3dPu6czYC9z5pn3hvF/80IXShDtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ITS-1046\\RiderProjects\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITS-1046\\.nuget\\packages\\spectre.console\\0.48.1-preview.0.20\\spectre.console.0.48.1-preview.0.20.nupkg.sha512",
+    "C:\\Users\\ITS-1046\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
